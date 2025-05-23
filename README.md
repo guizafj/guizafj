@@ -8,7 +8,7 @@
     <a href="https://dguiza.dev" target="_blank"><img src="https://img.shields.io/badge/Mi%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web"></a>
   </p>
 </div>
-
+<span>«Programming is not about typing, it’s about thinking.» – Rich Hickey</span>
 ---
 
 ### 🚀 Sobre Mí
