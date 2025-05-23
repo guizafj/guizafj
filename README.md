@@ -59,5 +59,5 @@ Creo firmemente en el poder del **software libre** y la **colaboración**. Me en
   <p>Conéctate conmigo:</p>
   <a href="https://www.linkedin.com/in/francisco-diaz-g/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:contacto@dguiza.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://dguiza.dev" target="_blank"><img src="https://img.l.com/badge/Mi%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web"></a>
+  <a href="https://dguiza.dev" target="_blank"><img src="https://img.shields.io/badge/Mi%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web"></a>
 </div>
