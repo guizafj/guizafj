@@ -26,6 +26,7 @@ En este perfil de GitHub, te invito a explorar una variedad de proyectos que ref
 * **Proyectos Backend con Django:** Implementaciones y APIs robustas que demuestran mi capacidad para construir sistemas escalables y eficientes.
 * **Scripts de Ciberseguridad:** Repositorios con herramientas y scripts que estoy desarrollando como parte de mi formación en hacking ético, cubriendo áreas como el escaneo de puertos, análisis de vulnerabilidades básicas, automatización de tareas de seguridad, etc.
 * **Ejercicios Didácticos:** Soluciones a problemas y proyectos que he abordado durante mi aprendizaje, pensados para ser claros y comprensibles para otros desarrolladores.
+* **Proyectos Backend con Flask:** Implementaciones y APIs consistentes que demuestran mi capacidad para construir sistemas escalables y faciles de mantener.
 * **Integraciones y Pruebas:** Proyectos que exploran la integración de diferentes tecnologías y la aplicación de metodologías de prueba.
 
 ---
