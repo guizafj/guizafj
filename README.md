@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/GUYZAFJ?v=4" alt="Francisco Díaz G." width="150" height="150" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/194834390?v=4" alt="Francisco Díaz G." width="150" height="150" style="border-radius: 50%;">
   <h1>¡Hola! Soy Francisco J Díaz G. 👋</h1>
   <p>Desarrollador Backend | Aspirante a Analista de Ciberseguridad | Entusiasta del Software Libre</p>
   <p>
@@ -34,8 +34,8 @@ En este perfil de GitHub, te invito a explorar una variedad de proyectos que ref
 ### 💻 Mi Stack Tecnológico y Herramientas
 
 * **Lenguajes:** Python (principal), JavaScript
-* **Frameworks Backend:** Django, Django REST Framework
-* **Bases de Datos:** PostgreSQL, SQLite
+* **Frameworks Backend:** Django, Django REST Framework, Flask
+* **Bases de Datos:** PostgreSQL, SQLite, MySQL
 * **Control de Versiones:** Git, GitHub
 * **Seguridad:** Metodologías de Hacking Ético, Análisis de Vulnerabilidades (en aprendizaje y práctica)
 * **Otros:** REST APIs, HTML5, CSS3, Docker (conocimientos básicos), Linux
