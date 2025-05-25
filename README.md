@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/194834390?v=4" alt="Francisco Díaz G." style="width=150 height=150 border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/194834390?v=4" alt="Francisco Díaz G.">
   <h1>¡Hola! Soy Francisco J Díaz G. 👋</h1>
   <p>Desarrollador Backend | Aspirante a Analista de Ciberseguridad | Entusiasta del Software Libre</p>
   <p>
