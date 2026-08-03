@@ -1,63 +1,106 @@
 <div align="center">
-  <h1>¡Hola! Soy Francisco J Díaz G. 👋</h1>
-  <p>Desarrollador Backend | Aspirante a Analista de Ciberseguridad | Entusiasta del Software Libre</p>
-  <p>
-    <a href="https://www.linkedin.com/in/francisco-diaz-g/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:contacto@dguiza.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://dguiza.dev" target="_blank"><img src="https://img.shields.io/badge/Mi%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web"></a>
-  </p>
+
+# ¡Hola! Soy Francisco J. Díaz G. 👋
+
+**Desarrollador Backend (Python) | Ciberseguridad**
+
+<a href="https://www.linkedin.com/in/francisco-diaz-g" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:contacto@dguiza.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://dguiza.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-dguiza.dev-FF5722?style=for-the-badge&logo=django&logoColor=white" alt="Portfolio"></a>
+
 </div>
-<span>«Programming is not about typing, it’s about thinking.» – Rich Hickey</span>
----
 
-### 🚀 Sobre Mí
-
-Soy **Francisco Díaz G.**, un desarrollador con una sólida base en el **desarrollo backend** con **Python y Django**, y un apasionado por la **ciberseguridad**. Actualmente, estoy sumergido en un curso de **Hacking Ético**, lo que me permite complementar mis habilidades de desarrollo con un enfoque práctico en la seguridad de sistemas y aplicaciones.
-
-Mi trayectoria incluye la creación de soluciones robustas y funcionales, con un fuerte énfasis en la **calidad del código**, la **optimización** y la **resolución de problemas**. Me considero un aprendiz constante, siempre buscando nuevas tecnologías y metodologías para aplicar en mis proyectos.
+> *"Programming is not about typing, it’s about thinking."* — **Rich Hickey**
 
 ---
 
-### ✨ ¿Qué encontrarás aquí?
+# 🚀 Sobre mí
 
-En este perfil de GitHub, te invito a explorar una variedad de proyectos que reflejan mi crecimiento y mis intereses:
+Profesional con experiencia en desarrollo web y emprendimiento tecnológico, actualmente orientado al desarrollo backend con Python y a la ciberseguridad mediante proyectos propios y formación continua.
 
-* **Proyectos Backend con Django:** Implementaciones y APIs robustas que demuestran mi capacidad para construir sistemas escalables y eficientes.
-* **Scripts de Ciberseguridad:** Repositorios con herramientas y scripts que estoy desarrollando como parte de mi formación en hacking ético, cubriendo áreas como el escaneo de puertos, análisis de vulnerabilidades básicas, automatización de tareas de seguridad, etc.
-* **Ejercicios Didácticos:** Soluciones a problemas y proyectos que he abordado durante mi aprendizaje, pensados para ser claros y comprensibles para otros desarrolladores.
-* **Proyectos Backend con Flask:** Implementaciones y APIs consistentes que demuestran mi capacidad para construir sistemas escalables y faciles de mantener.
-* **Integraciones y Pruebas:** Proyectos que exploran la integración de diferentes tecnologías y la aplicación de metodologías de prueba.
+Desarrollo aplicaciones backend utilizando **Django** y **Flask**, administrando entornos **Linux** e infraestructura propia como parte de un proceso continuo de aprendizaje técnico.
 
----
+Mi interés profesional se centra en seguir evolucionando hacia áreas donde convergen el desarrollo backend, la seguridad de aplicaciones y la automatización de infraestructura, como **AppSec** y **DevSecOps**.
 
-### 💻 Mi Stack Tecnológico y Herramientas
-
-* **Lenguajes:** Python (principal), JavaScript
-* **Frameworks Backend:** Django, Django REST Framework, Flask
-* **Bases de Datos:** PostgreSQL, SQLite, MySQL
-* **Control de Versiones:** Git, GitHub
-* **Seguridad:** Metodologías de Hacking Ético, Análisis de Vulnerabilidades (en aprendizaje y práctica)
-* **Otros:** REST APIs, HTML5, CSS3, Docker (conocimientos básicos), Linux
+Actualmente complemento esta evolución técnica con mi formación en **42 Málaga**, centrada en programación en C, gestión manual de memoria y algoritmia, junto con programas especializados en análisis de vulnerabilidades y seguridad de aplicaciones.
 
 ---
 
-### 🌐 Mi Portfolio Web
+# 💻 Stack tecnológico
 
-Estoy construyendo mi portfolio online en **[dguiza.dev](https://dguiza.dev)**. Esta web es un proyecto en sí mismo, desarrollado con **Django** en el backend, donde podrás ver en detalle mis proyectos, mis habilidades y mi experiencia. ¡Una vez esté completo, será la mejor forma de conocerme profesionalmente!
+### Backend
+
+* Python
+* Django
+* Flask
+* SQLAlchemy
+* REST APIs
+* C *(en formación)*
+
+### Bases de datos
+
+* MySQL
+* SQLite
+
+### Sistemas e infraestructura
+
+* Linux
+* Docker
+* Nginx
+* SSH
+* UFW
+* Fail2ban
+* QEMU
+* VirtualBox
+
+### Seguridad aplicada
+
+* OWASP Top 10
+* Burp Suite
+* OWASP ZAP
+* Nmap
+* OSINT
+* Hardening básico
+
+### Control de versiones
+
+* Git
+* GitHub
 
 ---
 
-### 🌱 Siempre Aprendiendo y Contribuyendo
+# 📌 Proyectos representativos
 
-Creo firmemente en el poder del **software libre** y la **colaboración**. Me entusiasma la idea de contribuir a proyectos open source y de seguir mejorando mis habilidades tanto en desarrollo como en ciberseguridad.
+Utilizo proyectos reales como principal herramienta de aprendizaje. Cada repositorio refleja una parte de mi evolución técnica, desde el desarrollo backend hasta la administración de sistemas Linux y la seguridad aplicada.
 
-¡No dudes en echar un vistazo a mis repositorios y contactarme si tienes alguna pregunta o si te interesan mis proyectos!
+### 🌐 Portfolio técnico e infraestructura propia
+
+**https://dguiza.dev**
+
+Portfolio profesional y plataforma de documentación técnica desarrollados con **Django**, desplegados sobre infraestructura Linux propia mediante **Docker**, **Nginx**, certificados SSL y medidas básicas de hardening.
+
+---
+
+### 🔐 Hacker Panel
+
+Aplicación modular desarrollada con **Flask** para centralizar documentación técnica, laboratorios y recursos relacionados con el aprendizaje en ciberseguridad.
+
+---
+
+### 📚 Sistema de Gestión de Biblioteca
+
+Aplicación backend desarrollada con **Flask**, **SQLAlchemy** y **MySQL**, implementando arquitectura modular, autenticación y control de acceso basado en roles (RBAC).
+
+---
+
+### 🧪 Laboratorio Personal de Ciberseguridad
+
+Entorno virtualizado basado en **Linux** y **Windows** donde experimento con vulnerabilidades, herramientas defensivas y buenas prácticas de seguridad en entornos controlados.
 
 ---
 
 <div align="center">
-  <p>Conéctate conmigo:</p>
-  <a href="https://www.linkedin.com/in/francisco-diaz-g/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contacto@dguiza.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://dguiza.dev" target="_blank"><img src="https://img.shields.io/badge/Mi%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web"></a>
+
+### Conecta conmigo
+
+<a href="https://www.linkedin.com/in/francisco-diaz-g" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:contacto@dguiza.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://dguiza.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-dguiza.dev-FF5722?style=for-the-badge&logo=django&logoColor=white" alt="Portfolio"></a>
+
 </div>
