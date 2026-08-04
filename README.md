@@ -1,106 +1,78 @@
 <div align="center">
 
-# ¡Hola! Soy Francisco J. Díaz G. 👋
+# Francisco J. Díaz Guiza 👋
 
-**Desarrollador Backend (Python) | Ciberseguridad**
+**Backend Python Developer · Linux Infrastructure · Application Security (AppSec)**
 
-<a href="https://www.linkedin.com/in/francisco-diaz-g" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:contacto@dguiza.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://dguiza.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-dguiza.dev-FF5722?style=for-the-badge&logo=django&logoColor=white" alt="Portfolio"></a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-dguiza.dev-FF5722?style=for-the-badge&logo=django&logoColor=white)](https://dguiza.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-diaz-g)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@dguiza.dev)
 
 > *"Programming is not about typing, it’s about thinking."* — **Rich Hickey**
 
----
-
-# 🚀 Sobre mí
-
-Profesional con experiencia en desarrollo web y emprendimiento tecnológico, actualmente orientado al desarrollo backend con Python y a la ciberseguridad mediante proyectos propios y formación continua.
-
-Desarrollo aplicaciones backend utilizando **Django** y **Flask**, administrando entornos **Linux** e infraestructura propia como parte de un proceso continuo de aprendizaje técnico.
-
-Mi interés profesional se centra en seguir evolucionando hacia áreas donde convergen el desarrollo backend, la seguridad de aplicaciones y la automatización de infraestructura, como **AppSec** y **DevSecOps**.
-
-Actualmente complemento esta evolución técnica con mi formación en **42 Málaga**, centrada en programación en C, gestión manual de memoria y algoritmia, junto con programas especializados en análisis de vulnerabilidades y seguridad de aplicaciones.
-
----
-
-# 💻 Stack tecnológico
-
-### Backend
-
-* Python
-* Django
-* Flask
-* SQLAlchemy
-* REST APIs
-* C *(en formación)*
-
-### Bases de datos
-
-* MySQL
-* SQLite
-
-### Sistemas e infraestructura
-
-* Linux
-* Docker
-* Nginx
-* SSH
-* UFW
-* Fail2ban
-* QEMU
-* VirtualBox
-
-### Seguridad aplicada
-
-* OWASP Top 10
-* Burp Suite
-* OWASP ZAP
-* Nmap
-* OSINT
-* Hardening básico
-
-### Control de versiones
-
-* Git
-* GitHub
-
----
-
-# 📌 Proyectos representativos
-
-Utilizo proyectos reales como principal herramienta de aprendizaje. Cada repositorio refleja una parte de mi evolución técnica, desde el desarrollo backend hasta la administración de sistemas Linux y la seguridad aplicada.
-
-### 🌐 Portfolio técnico e infraestructura propia
-
-**https://dguiza.dev**
-
-Portfolio profesional y plataforma de documentación técnica desarrollados con **Django**, desplegados sobre infraestructura Linux propia mediante **Docker**, **Nginx**, certificados SSL y medidas básicas de hardening.
-
----
-
-### 🔐 Hacker Panel
-
-Aplicación modular desarrollada con **Flask** para centralizar documentación técnica, laboratorios y recursos relacionados con el aprendizaje en ciberseguridad.
-
----
-
-### 📚 Sistema de Gestión de Biblioteca
-
-Aplicación backend desarrollada con **Flask**, **SQLAlchemy** y **MySQL**, implementando arquitectura modular, autenticación y control de acceso basado en roles (RBAC).
-
----
-
-### 🧪 Laboratorio Personal de Ciberseguridad
-
-Entorno virtualizado basado en **Linux** y **Windows** donde experimento con vulnerabilidades, herramientas defensivas y buenas prácticas de seguridad en entornos controlados.
-
----
-
-<div align="center">
-
-### Conecta conmigo
-
-<a href="https://www.linkedin.com/in/francisco-diaz-g" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:contacto@dguiza.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://dguiza.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-dguiza.dev-FF5722?style=for-the-badge&logo=django&logoColor=white" alt="Portfolio"></a>
-
 </div>
+
+---
+
+### 🚀 About Me
+
+I build backend applications with Python and deploy them on Linux infrastructure that I manage myself.
+
+My projects combine backend development, containerized deployments, and application security. This allows me to work across the complete lifecycle of an application: **development, deployment, maintenance, and security**.
+
+Alongside my personal projects, I continue strengthening my low-level programming skills in **C** through **42 Málaga**, while expanding my knowledge in **Application Security (AppSec)** and **DevSecOps** practices.
+
+---
+
+### 💻 Tech Stack
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Backend & APIs** | Python, Django, Flask, REST APIs, SQLAlchemy, RBAC |
+| **Low-Level Programming** | C, Memory Management, Algorithms (42 Málaga) |
+| **Databases** | MySQL, SQLite |
+| **Infrastructure** | Linux, Docker, Docker Compose, Nginx, SSH, UFW, Fail2ban, QEMU |
+| **Security** | OWASP Top 10, Burp Suite, OWASP ZAP, Nmap, System Hardening, OSINT |
+| **Version Control** | Git, GitHub |
+
+---
+
+### 📌 Featured Projects
+
+#### 🌐 [dguiza.dev](https://dguiza.dev) — Technical Portfolio & Self-Managed Infrastructure
+> Technical portfolio built with **Django** and deployed on a **Linux** server that I administer using **Docker** and **Nginx**. It also serves as a knowledge base where I document projects, security labs, and infrastructure hardening.
+
+#### 🔐 [Hacker Panel](https://github.com/guizafj/hacker-panel)
+> **Flask** application designed to centralize write-ups, automation scripts, and technical documentation generated during security labs.
+
+#### 📚 [Library Management System](https://github.com/guizafj/library-system)
+> Backend application focused on modular architecture, authentication, Role-Based Access Control (**RBAC**), and transactional data management.
+
+#### 🧪 Personal Security & Hardening Lab
+> Personal laboratory based on virtualized Linux and Windows environments used to analyze vulnerabilities, evaluate defensive tools, and document reproducible security procedures.
+
+---
+
+### 🛠️ Engineering Principles
+
+- **Build before optimizing:** Deliver working, functional software before over-engineering.
+- **Security by Design:** Integrate security practices throughout the development process, not as an afterthought.
+- **Document technical decisions:** Documenting decisions and procedures consolidates knowledge and makes systems maintainable.
+- **Keep systems simple:** Simple code and clean infrastructure are easier to audit, scale, and secure.
+
+---
+
+### 🎯 Current Focus
+
+- 🐍 Backend development with **Python** & **Django**
+- 🐧 Linux system administration & containerized deployments (**Docker**)
+- 🛡️ **Application Security (AppSec)** & **DevSecOps** fundamentals
+- ⚡ Low-level C programming & memory management at **42 Málaga**
+
+---
+### 📫 Contact
+
+Feel free to connect with me through:
+[![Portfolio](https://img.shields.io/badge/Portfolio-dguiza.dev-FF5722?style=for-the-badge&logo=django&logoColor=white)](https://dguiza.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-diaz-g)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@dguiza.dev)
