@@ -73,6 +73,7 @@ Alongside my personal projects, I continue strengthening my low-level programmin
 ### 📫 Contact
 
 Feel free to connect with me through:
-- [![Portfolio](https://img.shields.io/badge/Portfolio-dguiza.dev-FF5722?style=for-the-badge&logo=django&logoColor=white)](https://dguiza.dev)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-diaz-g)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@dguiza.dev)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-dguiza.dev-FF5722?style=for-the-badge&logo=django&logoColor=white)](https://dguiza.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-diaz-g)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@dguiza.dev)
