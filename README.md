@@ -45,7 +45,7 @@ Alongside my personal projects, I continue strengthening my low-level programmin
 #### 🔐 [Hacker Panel](https://github.com/guizafj/hacker-panel)
 > **Flask** application designed to centralize write-ups, automation scripts, and technical documentation generated during security labs.
 
-#### 📚 [Library Management System](https://github.com/guizafj/library-system)
+#### 📚 [Library Management System](https://github.com/guizafj/Gestion_de_una_Biblioteca)
 > Backend application focused on modular architecture, authentication, Role-Based Access Control (**RBAC**), and transactional data management.
 
 #### 🧪 Personal Security & Hardening Lab
